@@ -1,4 +1,4 @@
-class Solution {
+ class Solution {
 public:
     bool exist(vector<vector<char>>& board, string word) {
         int rows = board.size();
